@@ -46,9 +46,9 @@ p:nth-child(2) {
 }
 
 
-/* .small-box {
+.small-box {
     height: 40px;
     width: 40px;
     background-color: green;
     border: 2px solid #fff;
-} */
+}
